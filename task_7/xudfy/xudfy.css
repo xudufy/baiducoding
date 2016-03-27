@@ -4,7 +4,7 @@ body{
   font-size :14px;
   margin:0;
   width: 100%;
-  min-width: 1280px;
+  min-width: 1078px;
 }
 h1,h2,h3,h4,h5,h6,ul{
   padding: 0;
@@ -423,7 +423,7 @@ header li{
   justify-content: space-around;
   flex-direction: row;
   align-items:flex-start;
-  width: 86%;
+  width: 88%;
   margin:0 auto;
 }
 .f-holder{
